@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;STRING1.STRING_NO_OF_DIGITS.java&apos; to &apos;ARRAY1.java&apos;&#x0A;- Original project: &apos;PROGRAMS&apos;&#x0A;- Original element: &apos;STRING1.STRING_NO_OF_DIGITS.java&apos;&#x0A;- Renamed element: &apos;STRING1.ARRAY1.java&apos;" description="Rename compilation unit &apos;STRING_NO_OF_DIGITS.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/&lt;STRING1{STRING_NO_OF_DIGITS.java" name="ARRAY1.java" references="false" stamp="1623168697230" version="1.0"/>
+</session>
